@@ -1,2 +1,2 @@
-# -Deep-Learning-Project
+# Deep-Learning-Project
 Image caption Generator 
